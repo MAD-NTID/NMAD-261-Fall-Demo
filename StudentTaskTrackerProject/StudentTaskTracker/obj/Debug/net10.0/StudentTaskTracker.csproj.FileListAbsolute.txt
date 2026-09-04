@@ -1,0 +1,13 @@
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\bin\Debug\net10.0\StudentTaskTracker.deps.json
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\bin\Debug\net10.0\StudentTaskTracker.dll
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\bin\Debug\net10.0\StudentTaskTracker.pdb
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\obj\Debug\net10.0\StudentTaskTracker.csproj.AssemblyReference.cache
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\obj\Debug\net10.0\StudentTaskTracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\obj\Debug\net10.0\StudentTaskTracker.AssemblyInfoInputs.cache
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\obj\Debug\net10.0\StudentTaskTracker.AssemblyInfo.cs
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\obj\Debug\net10.0\StudentTaskTracker.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\obj\Debug\net10.0\XamlC.stamp
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\obj\Debug\net10.0\StudentTaskTracker.dll
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\obj\Debug\net10.0\refint\StudentTaskTracker.dll
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\obj\Debug\net10.0\StudentTaskTracker.pdb
+C:\Users\kscics\Rider\StudentTaskTrackerProject\StudentTaskTracker\obj\Debug\net10.0\ref\StudentTaskTracker.dll
